@@ -1,0 +1,22 @@
+langchain_community==0.3.19
+pandas==2.2.3
+numpy==1.23.5
+langchain==0.3.20
+transformers==4.49.0
+huggingface_hub==0.29.2
+torch==2.0.1 #+cu117
+tensorflow==2.18.0
+PyMuPDF==1.25.3
+python-docx==1.1.2
+nltk==3.9.1
+seaborn==0.13.2
+matplotlib==3.10.1
+squarify==0.4.4
+scikit-learn==1.6.1
+spacy==3.8.4
+sentence_transformers==3.4.1
+tf_keras==2.18.0
+faiss-cpu==1.10.0
+sentencepiece==0.2.0
+google-api-python-client==2.163.0
+bs4==0.0.2
