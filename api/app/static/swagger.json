@@ -1,0 +1,53 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Insurance Policy API",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/message": {
+        "post": {
+          "description": "Get message from a query",
+          "consumes": [
+            "application/json"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "parameters": [
+            {
+              "name": "access data",
+              "in": "body",
+              "description": "JSON data for the api",
+              "required": true,
+              "schema": {
+                "$ref": "#/definitions/MessageData"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Response successfully"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        }
+      }
+    },
+    "definitions": {
+      "MessageData": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string"
+          },
+          "user": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+  

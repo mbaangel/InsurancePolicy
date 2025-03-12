@@ -1,0 +1,286 @@
+[
+  {
+    "question": "¿Qué se considera un 'Accidente' según la póliza POL120190177?",
+    "answer": "Un 'Accidente' es un suceso imprevisto, involuntario, repentino y fortuito, causado por medios externos y de modo violento, que afecta al organismo del asegurado, ocasionándole lesiones visibles o internas."
+  },
+  {
+    "question": "¿Qué gastos no son cubiertos por la póliza POL120190177?",
+    "answer": "No se cubren gastos relacionados con enfermedades preexistentes, tratamientos estéticos, cirugías cosméticas, lesiones causadas por guerra, actos terroristas, o lesiones autoprovocadas, entre otros."
+  },
+    {
+        "question": "¿Qué sucede si el asegurado no paga la prima?",
+        "answer": "Si el asegurado no paga la prima, el contrato se terminará a los 15 días de la notificación, y la compañía aseguradora no tendrá responsabilidad por siniestros posteriores."
+    },
+    {
+        "question": "¿Qué documentos debe presentar el asegurado para reclamar un siniestro?",
+        "answer": "El asegurado debe presentar formularios proporcionados por la compañía, declaraciones sobre su sistema de salud, originales de recibos, boletas, facturas, copias de bonos, órdenes de atención y otros documentos que acrediten los gastos incurridos."
+    },
+    {
+        "question": "¿Qué se excluye específicamente de la cobertura de la póliza POL120190177?",
+        "answer": "Se excluyen gastos relacionados con enfermedades preexistentes, tratamientos estéticos, lesiones causadas por guerra, actos terroristas, suicidio, intoxicaciones voluntarias, y actividades riesgosas no declaradas, entre otros."
+    },
+    {
+        "question": "¿Qué sucede si el asegurado tiene más de un seguro que cubre el mismo riesgo?",
+        "answer": "El asegurado debe comunicar a todos los aseguradores sobre los otros seguros que lo cubren, y las coberturas de esta póliza no se duplicarán con los beneficios de otros seguros o sistemas de salud."
+    },
+    {
+        "question": "¿Qué sucede si la moneda o unidad estipulada en la póliza deja de existir?",
+        "answer": "Si la moneda o unidad estipulada deja de existir, se aplicará en su lugar aquella que oficialmente la reemplace, a menos que el contratante no acepte la nueva unidad, en cuyo caso se producirá la terminación anticipada del contrato."
+    },
+    {
+        "question": "¿Qué se excluye específicamente de la cobertura de hospitalización?",
+        "answer": "Se excluyen los gastos de acompañantes, alojamiento, comida, y cualquier atención particular de enfermería fuera del hospital."
+    },
+    {
+        "question": "¿Qué sucede si el asegurado incurre en gastos médicos fuera del territorio nacional?",
+        "answer": "La cobertura de la póliza es válida únicamente mientras el asegurado se encuentre dentro del territorio nacional. Los gastos incurridos fuera del país no están cubiertos."
+    },
+    {
+        "question": "¿Qué sucede si el asegurado no está afiliado a un sistema de salud previsional?",
+        "answer": "Si el asegurado no está afiliado a un sistema de salud previsional, la compañía calculará los gastos a reembolsar y aplicará el porcentaje de reembolso indicado en el Cuadro de Coberturas de las Condiciones Particulares de la Póliza."
+    },
+    {
+        "question": "¿Qué tipo de gastos médicos cubre la póliza POL120190177?",
+        "answer": "La póliza cubre los Gastos Médicos Razonables y Acostumbrados, efectivamente incurridos, relacionados con hospitalización y atención ambulatoria, siempre que sean originados por un accidente ocurrido durante la vigencia de la póliza."
+    },
+    {
+        "question": "¿Qué se entiende por 'Gastos Médicos Razonables y Acostumbrados'?",
+        "answer": "Son los gastos promedio que se cobran por prestaciones similares en la localidad donde se realizan, considerando tratamientos no experimentales, el nivel de los tratamientos otorgados y la experiencia de los profesionales."
+    },
+    {
+        "question": "¿Qué es el 'Período de Duración del Reembolso'?",
+        "answer": "Es el plazo definido en las Condiciones Particulares de la Póliza, contado desde la fecha de ocurrencia de un accidente, durante el cual los gastos médicos originados por el accidente serán reembolsados."
+    },
+    {
+        "question": "¿Qué cubre el seguro colectivo complementario de salud?",
+        "answer": "El seguro cubre gastos médicos razonables y acostumbrados en los que incurra el asegurado. La cobertura incluye hospitalización, maternidad, consultas médicas, medicamentos ambulatorios, salud mental y beneficios especiales, según lo establecido en las condiciones particulares de la póliza."
+    },
+    {
+        "question": "¿El seguro cubre tratamientos en el extranjero?",
+        "answer": "Sí, el seguro cubre gastos médicos incurridos tanto dentro del territorio nacional como en el extranjero, de acuerdo con los porcentajes y límites de reembolso establecidos en las condiciones particulares de la póliza."
+    },
+    {
+        "question": "¿Qué debo hacer para solicitar un reembolso por gastos médicos?",
+        "answer": "Para solicitar un reembolso, el asegurado debe presentar el formulario de solicitud de reembolso proporcionado por la compañía de seguros, junto con los documentos originales que acrediten el gasto médico, como facturas, boletas, órdenes de atención y programas médicos. Además, debe cumplir con los plazos establecidos en la póliza."
+    },
+    {
+        "question": "¿Existen límites de reembolso en la póliza?",
+        "answer": "Sí, la póliza establece límites de reembolso según cada tipo de cobertura. Estos montos se detallan en el cuadro de beneficios de las condiciones particulares de la póliza."
+    },
+    {
+        "question": "¿Cuáles son los beneficios que cubre la hospitalización?",
+        "answer": "El beneficio de hospitalización cubre gastos como días de cama, alimentación, atención de enfermería, servicios hospitalarios, honorarios médicos quirúrgicos, cirugía dental por accidente, servicio privado de enfermería y servicio de ambulancia."
+    },
+    {
+        "question": "¿El seguro cubre maternidad?",
+        "answer": "Sí, el beneficio de maternidad cubre gastos médicos relacionados con parto normal, cesárea y aborto involuntario. También cubre complicaciones del embarazo y del parto, según los porcentajes y límites de reembolso establecidos en la póliza."
+    },
+    {
+        "question": "¿El seguro cubre salud mental?",
+        "answer": "El beneficio de salud mental cubre gastos médicos asociados a diagnósticos psiquiátricos, tratamientos psicológicos y psicopedagógicos. Para el reembolso de psicología y psicopedagogía, se requiere una orden de derivación del médico tratante."
+    },
+    {
+        "question": "¿El seguro cubre medicamentos?",
+        "answer": "Sí, el beneficio de medicamentos ambulatorios cubre medicamentos recetados por un médico en forma ambulatoria. Se incluyen medicamentos genéricos, no genéricos, inmunosupresores, inmunomoduladores y antineoplásicos."
+    },
+    {
+        "question": "¿Qué tratamientos no están cubiertos por el seguro?",
+        "answer": "El seguro no cubre tratamientos estéticos, cirugías para adelgazar, tratamientos de infertilidad, homeopatía, medicamentos de uso preventivo, hospitalización domiciliaria, entre otros. También excluye gastos médicos por enfermedades preexistentes, salvo que se haya contratado una cláusula adicional."
+    },
+    {
+        "question": "¿Qué pasa si un asegurado tiene otro seguro de salud?",
+        "answer": "Si un asegurado cuenta con otro seguro de salud o está afiliado a un sistema previsional, el seguro complementario cubrirá solo el monto que no haya sido reembolsado por la otra institución, sin exceder los límites establecidos en la póliza."
+    },
+    {
+        "question": "¿La póliza cubre enfermedades preexistentes?",
+        "answer": "No, la póliza excluye la cobertura de enfermedades preexistentes, salvo que se contrate una estipulación expresa con el pago de una prima adicional."
+    },
+    {
+        "question": "¿Qué pasa si no pago la prima del seguro?",
+        "answer": "Si no se paga la prima dentro del plazo establecido, la póliza se dará por terminada y la compañía de seguros no tendrá ninguna responsabilidad sobre siniestros ocurridos después de la fecha de terminación."
+    },
+    {
+        "question": "¿Qué debo hacer si tengo una emergencia?",
+        "answer": "En caso de emergencia médica, el asegurado debe recibir la atención correspondiente y luego solicitar el reembolso de los gastos incurridos, presentando los documentos requeridos dentro del plazo estipulado en la póliza."
+    },
+    {
+        "question": "¿Cómo puedo incorporar a nuevos miembros a la póliza?",
+        "answer": "Se pueden incorporar nuevos asegurados durante la vigencia de la póliza con notificación expresa del contratante y aceptación de la compañía de seguros. La cobertura comenzará el primer día del mes siguiente a la fecha de aceptación."
+    },
+    {
+        "question": "¿Si tengo un accidente y necesito cirugía dental, ¿el seguro lo cubre?",
+        "answer": "Sí, el beneficio de hospitalización cubre la cirugía dental por accidente, siempre que el tratamiento se realice dentro de los seis meses siguientes al accidente y la cobertura esté vigente."
+    },
+    {
+        "question": "¿Si mi hijo recién nacido necesita hospitalización, ¿el seguro cubre los gastos?",
+        "answer": "Sí, pero solo si el recién nacido es asegurado y el parto fue cubierto por la póliza. La cobertura se extiende hasta el tercer día de hospitalización en parto normal y hasta el quinto día en cesárea."
+    },
+    {
+        "question": "¿Si tengo miopía, el seguro cubre la cirugía láser para corregirla?",
+        "answer": "No, la cirugía ocular láser para miopía, astigmatismo e hipermetropía está excluida de la cobertura, salvo que se cumplan condiciones específicas establecidas en la póliza."
+    },
+    {
+        "question": "¿Qué incluye el beneficio de la Hospitalización dentro de la cobertura?",
+        "answer": "El beneficio de la cobertura por Hospitalización incluye: \nDías cama hospitalización \nServicios hospitalarios \nHonorarios médicos \nCirugía dental por accidente \nServicio privado de enfermería \nPrótesis quirúrgicas \nServicio de ambulancia Terrestre."
+    },
+    {
+        "question": "¿Qué incluye el beneficio Ambulatorio?",
+        "answer": "El beneficio de la cobertura Ambulatorio incluye: \nCirugía ambulatoria \nConsultas médicas \nExámenes de laboratorio \nExámenes de radiografías \nExámenes de ultrasonografia \nExámenes de medicina nuclear \nProcedimientos de diagnósticos terapéuticos, no quirúrgicos."
+    },
+{
+    "question": "¿Qué incluye el beneficio de medicamentos ambulatorios?",
+    "answer": "El beneficio de medicamentos ambulatorios incluye:\n- Medicamentos ambulatorios genéricos y bioequivalentes.\n- Medicamentos ambulatorios no genéricos ni bioequivalentes.\n- Medicamentos ambulatorios inmunosupresores.\n- Medicamentos ambulatorios antineoplásicos."
+  },
+  {
+    "question": "¿Cuáles son las limitaciones de la cobertura?",
+    "answer": "Las limitaciones de la cobertura son:\n- Si el asegurado no está afiliado a un sistema de salud previsional, privado o estatal, el seguro no opera, salvo que las condiciones particulares indiquen lo contrario.\n- Si el asegurado está afiliado a un sistema de salud y las prestaciones no tienen bonificación, aporte o reembolso mayor que cero, se cubre el porcentaje del gasto indicado en las condiciones particulares.\n- Si el asegurado cambia de sistema de salud previsional después de incorporarse al seguro, se cubre el porcentaje del gasto indicado en las condiciones particulares.\n- Los términos, porcentajes, límites y topes de reembolso pueden variar según el sistema de salud del asegurado, el plan contratado, el prestador médico y otros conceptos indicados en las condiciones particulares.\n- La compañía no reembolsará o pagará más allá del gasto incurrido por el asegurado ni del monto máximo de reembolso indicado en las condiciones particulares."
+  },
+  {
+    "question": "¿Qué se considera Evento según la póliza POL320200071?",
+    "answer": "Cualquiera de las prestaciones hospitalarias o ambulatorias asociadas a un diagnóstico por enfermedad o accidente y sus consecuencias posteriores asociadas directamente al diagnóstico principal, con duración y plazo definidos en las condiciones particulares."
+  },
+  {
+    "question": "¿Cuáles son las exclusiones de la cobertura?",
+    "answer": "Se excluyen de la cobertura:\n- Hospitalización para reposo, rehabilitación, enfermedades psiquiátricas o psicológicas.\n- Curas de reposo, cuarentena o aislamientos.\n- Cirugía y tratamientos estéticos, cosméticos, dentales, ortopédicos, salvo por lesiones accidentales.\n- Tratamientos por adicción a drogas, alcohol o tabaco, lesiones por ingestión de sustancias o intentos de suicidio.\n- Tratamiento por SIDA/VIH.\n- Aparatos auditivos, lentes, prótesis, órtesis, equipos médicos, salvo indicación expresa en las condiciones particulares.\n- Tratamientos preventivos, hospitalización domiciliaria, gastos de acompañantes.\n- Lesiones por accidentes laborales, maternidad (salvo complicaciones), enfermedades congénitas.\n- Epidemias y pandemias.\n- Gastos por embarazo, parto, cesárea y complicaciones.\n- Enfermedades preexistentes.\n- Tratamientos anticonceptivos, medicina no tradicional o experimental.\n- Deportes riesgosos no declarados, criopreservación, gastos no indicados en el cuadro de beneficios.\n- Ambulancia aérea, deporte profesional de alto rendimiento."
+  },
+  {
+    "question": "¿Cuáles son las obligaciones del asegurado?",
+    "answer": "Las obligaciones del asegurado son:\n1) Declarar sinceramente todas las circunstancias solicitadas por el asegurador.\n2) Pagar la prima en la forma y época pactadas.\n3) Notificar al asegurador sobre cualquier hecho que pueda constituir un siniestro.\n4) Acreditar la ocurrencia del siniestro y declarar sus circunstancias y consecuencias."
+  },
+  {
+    "question": "¿Cuál es la vigencia y duración del contrato?",
+    "answer": "El contrato entra en vigencia en la fecha indicada en las condiciones particulares y tiene la duración señalada en las mismas. Puede ser renovado automáticamente, salvo oposición de alguna de las partes con 30 días de anticipación. La prima puede variar según la edad. Terminada la vigencia, cesa la responsabilidad de la compañía."
+  },
+  {
+    "question": "¿Cuáles son los efectos del no pago de la prima?",
+    "answer": "Si no se paga la prima, el contrato termina a los 15 días de la notificación del asegurador. El asegurador puede exigir el pago de la prima devengada y los gastos de formalización. El pago posterior no impide la terminación por nuevos atrasos. Terminada la vigencia, cesa la responsabilidad del asegurador."
+  },
+  {
+    "question": "¿Cuál es el procedimiento a seguir para denunciar un siniestro?",
+    "answer": "El asegurado debe notificar el siniestro tan pronto como sea posible, presentando un formulario de reembolso, declaración sobre otros seguros, documentos que acrediten el gasto y, para medicamentos, una receta válida. La compañía puede solicitar documentos adicionales y realizar exámenes médicos."
+  },
+  {
+    "question": "¿En qué casos se puede dar la terminación del contrato de seguro?",
+    "answer": "El contrato puede terminar por fallecimiento del asegurado, edad máxima, falta de pago de la prima, cambio de moneda no aceptado, errores o reticencias en la declaración del asegurado o delito del asegurado."
+  },
+  {
+    "question": "¿Cuáles son las reglas aplicables al contrato POL320150503?",
+    "answer": "Se aplican las disposiciones de los artículos siguientes y las normas legales del Código de Comercio. Las estipulaciones contractuales más beneficiosas para el asegurado o beneficiario son válidas."
+  },
+  {
+    "question": "¿Cuál es la cobertura y materia asegurada?",
+    "answer": "La compañía reembolsará los gastos médicos razonables y acostumbrados incurridos por enfermedad o accidente durante la vigencia de la póliza, una vez otorgada la cobertura del sistema de salud previsional, seguros complementarios u otros beneficios contratados por el asegurado. Los gastos deben realizarse en los prestadores de salud determinados por el asegurador durante el período de duración del reembolso."
+  },
+  {
+    "question": "¿Cuáles son los requisitos para que la compañía aseguradora cubra los gastos?",
+    "answer": "Los requisitos son: que el evento ocurra durante la vigencia del asegurado, que los gastos se incurran dentro del período de duración del reembolso, que superen el deducible, que no superen el monto máximo de gastos reembolsables, que no provengan de una exclusión y que las prestaciones médicas sean entregadas por los prestadores indicados en las condiciones particulares."
+  },
+  {
+    "question": "¿Cuáles son los límites y topes de reembolso?",
+    "answer": "Los límites y topes de reembolso se establecen en el cuadro de coberturas de las condiciones particulares. Pueden variar según el sistema de salud del asegurado, el plan contratado, el prestador médico y otros conceptos indicados en las condiciones particulares. La compañía no reembolsará o pagará más allá del gasto incurrido por el asegurado ni del monto máximo de reembolso."
+  },
+  {
+    "question": "¿Cuáles son las exclusiones de la póliza de seguro?",
+    "answer": "Se excluyen los gastos médicos que no sean causados por un evento, así como los gastos por enfermedades preexistentes (salvo indicación en las condiciones particulares), embarazo, enfermedades psicológicas, curas de reposo, cirugías estéticas, tratamientos por adicción, SIDA/VIH, lesiones por guerra, riñas o terrorismo, lesiones auto provocadas, tratamientos dentales (salvo cirugía dental por accidente), lentes, aparatos auditivos, prótesis, medicamentos preventivos, atención domiciliaria, lesiones laborales, deportes riesgosos no declarados, entre otros."
+  },
+  {
+    "question": "¿Cuáles son las obligaciones del asegurado?",
+    "answer": "Las obligaciones del asegurado son: declarar sinceramente las circunstancias solicitadas, informar sobre otros seguros, pagar la prima, notificar siniestros y acreditar la ocurrencia de los mismos."
+  },
+  {
+    "question": "¿Qué es una prima de póliza de seguro?",
+    "answer": "La prima es la retribución o precio del seguro, determinada en las condiciones particulares. Puede variar según la edad del asegurado y el número de asegurados dependientes."
+  },
+  {
+    "question": "¿Cómo se realiza el pago de primas?",
+    "answer": "El pago de primas puede ser mensual, trimestral, semestral o anual, según se indique en las condiciones particulares. Debe realizarse a más tardar el último día hábil del mes de inicio del período."
+  },
+  {
+    "question": "¿Cuál es la consecuencia de no pagar la prima de seguro?",
+    "answer": "La falta de pago de la prima produce la terminación del contrato a los 15 días de la notificación del asegurador. El asegurador puede exigir el pago de la prima devengada y los gastos de formalización."
+  },
+  {
+    "question": "¿Cómo se denuncia un siniestro o accidente?",
+    "answer": "El asegurado debe notificar el evento tan pronto como sea posible, siguiendo los procedimientos indicados en las condiciones particulares. El plazo máximo para presentar un gasto médico para reembolso se define en las condiciones particulares."
+  },
+    {
+        "question": "¿Cómo se calcula un gasto reembolsable?",
+        "answer": "El Asegurado, conforme al Artículo 9, letra b precedente, deberá declarar en su denuncia de siniestro sobre el sistema previsional o de salud al que se encuentre afiliado o adherido, Isapres, Fonasa, cajas de previsión, departamentos o servicios de bienestar, el Seguro Obligatorio de Accidentes Personales establecido en la Ley N 18.490, las Cajas de Compensación de Asignación Familiar, otros Seguros de Salud contratados en favor del Asegurado por otras instituciones, públicas o privadas, u otros seguros contratados en forma individual por él, que contemplen algún aporte, indemnización, reembolso o bonificación, a favor del Asegurado, efectuado o por efectuar, respecto de los gastos susceptibles de ser reembolsados o pagados al Prestador."
+    },
+    {
+        "question": "¿Cómo se liquidan los gastos y cuales son los montos máximos reembolsables?",
+        "answer": "La compañía reembolsará al Asegurado Titular que haya incurrido en los gastos a causa de un Evento o, en su defecto, a los herederos legales de éste conforme lo determina la ley, o pagará al Prestador, los Gastos Reembolsables de acuerdo a los porcentajes que se señalan en las Condiciones Particulares de la Póliza, en la medida que tales gastos hayan sido incurridos dentro del Período de Duración de Reembolso, siempre hasta el Monto Máximo de Gastos Reembolsables, y que dichos gastos excedan el Deducible indicado en el Artículo 12° de estas Condiciones Generales."
+    },
+    {
+        "question": "¿Cómo aplica el deducible?",
+        "answer": "Las Condiciones Particulares de la Póliza podrán establecer deducibles por Evento, por Asegurado, por la edad de éste y según el porcentaje de reembolso sobre el monto total de los Gastos Médicos que realice cualquiera institución pública o privada del sistema previsional o de salud al que el Asegurado se encuentre afiliado o adherido, indicando su monto expresado en Unidades de Fomento. La aplicación del Deducible se sujetará al siguiente procedimiento: 1°) Determinación del monto de los Gastos Reembolsables cubiertos por esta Póliza; 2° Aplicación de los porcentajes de reembolso o de pago al Prestador que se indica en el Cuadro de Coberturas contenido en las Condiciones Particulares de la Póliza y en la propuesta de seguros sobre el monto determinado conforme al número anterior; y 3° Al monto resultante de la operación anterior se le aplicará el monto del Deducible. En los casos en que, el monto del Deducible se determine por la edad que tenga el Asegurado al momento de ocurrencia del Evento, monto de Deducible quedará fijo para dicho Evento por todo el Período de Duración del Reembolso del Evento, según se indica en las Condiciones Particulares de la Póliza."
+    },
+    {
+        "question": "¿Cuál es la vigencia del contrato de seguro?",
+        "answer": "La vigencia de las coberturas contempladas en las presentes Condiciones Generales así como la de las coberturas adicionales que se contraten en conjunto, si las hubiere, se iniciará en la fecha indicada en las Condiciones Particulares de la Póliza, tendrá la duración señalada en las mismas Condiciones Particulares y podrá ser renovada por el lapso, condiciones y prima que autorice el Contratante. Terminada la vigencia del contrato, sea anticipada o no, cesará toda responsabilidad de la compañía aseguradora sobre los riesgos que asume y ésta no tendrá obligación alguna respecto de los siniestros que ocurran con posterioridad a esa fecha."
+    },
+    {
+        "question": "¿Cuál es el inicio de la cobertura indifidual del seguro contratado?",
+        "answer": "Si durante la vigencia del seguro, un Asegurado Titular deseare incorporar a nuevos asegurados dependientes, deberá solicitarlo a la Compañía de Seguros. Para los efectos de incorporarse como asegurados, los nuevos dependientes deberán someterse a la evaluación y calificación de su estado de salud presentando para estos efectos una declaración de salud, documentos accesorios o complementarios, realizarse exámenes médicos, de laboratorio y someterse a reconocimiento médico, todo cuando corresponda, de acuerdo a los requisitos de asegurabilidad indicados en las Condiciones Particulares de la Póliza y ser aceptados por la Compañía de Seguros, en cuyo caso la fecha de inicio de vigencia de las coberturas y el correspondiente cobro de prima para el o los nuevos asegurados dependientes se iniciará el día primero del mes siguiente de la fecha de aceptación por parte de la Compañía de Seguros u otra que se indique en las Condiciones Particulares de la Póliza."
+    },
+    {
+        "question": "¿Cuales son las contribuciones e impuestos?",
+        "answer": "Los impuestos que se establezcan durante la vigencia de la Póliza y que afecten al presente contrato, serán de cargo del asegurado, salvo que por ley fuesen de cargo de la Compañía Aseguradora."
+    },
+    {
+        "question": "¿Cómo se solucionan controversias?",
+        "answer": "Cualquier dificultad que se suscite entre el (los) asegurado(s) o el contratante, según corresponda, y el asegurador, sea en relación con la validez o ineficacia del contrato de seguro de que da cuenta esta Póliza, o con motivo de la interpretación o aplicación de sus Condiciones Generales o Particulares, su cumplimiento o incumplimiento, o sobre la procedencia o el monto de una indemnización reclamada al amparo del mismo, será resuelta en los términos establecidos en el Artículo 543 del Código de Comercio. No obstante lo anterior, el asegurado podrá por sí solo y en cualquier momento, someter al arbitraje de la Superintendencia de Valores y Seguros las dificultades que se susciten con la Compañía Aseguradora cuando el monto de los daños reclamados no sea superior a 120 Unidades de Fomento, de conformidad."
+    },
+    {
+        "question": "¿Proceso de reembolso de hospitalización quirúrgica de emergencia?",
+        "answer": "La Compañía Aseguradora reembolsará al asegurado o pagará directamente al prestador de salud los Gastos Médicos Razonables y Acostumbrados y Efectivamente Incurridos, una vez otorgada y pagada la cobertura del sistema de salud previsional, seguros complementarios u otros beneficios contratados por el asegurado."
+    },
+    {
+        "question": "¿En qué momento se hace válida la cobertura para hospitalización quirúrgica de emergencia?",
+        "answer": "Cuando al asegurado requiera de una intervención quirúrgica hospitalaria, con motivo de un accidente o enfermedad, y esta deba realizarse en forma inmediata o de emergencia desde el momento en que se efectúa el diagnóstico por primera vez. Se excluyen de la cobertura, aquellas cirugías en que el proceso diagnóstico entre la consulta médica y la cirugía tiene una duración mayor a 48 horas y cuando la estadía hospitalaria sea menor a doce (12) horas de día cama. La cobertura se otorgará cuando este gasto se realice en el o los prestadores de salud que el asegurador determine, durante el Período de Duración del Reembolso que se establezca en las Condiciones Particulares de la Póliza, que se contará desde la fecha de ocurrencia del Evento y que sean originados por éste."
+    },
+    {
+        "question": "¿Cuáles son los requisitos para hacer válido el reembolso por hospitalización quirúrgica de emergencia?",
+        "answer": "Que el Evento que los origina haya ocurrido durante la vigencia del Asegurado en esta Póliza \nQue se haya incurrido en los gastos dentro del Período de Duración de Reembolso \nQue el monto de gastos supere el Deducible establecido en las Condiciones Particulares de la Póliza \nQue la suma de los reembolsos de gastos realizados al asegurado, durante su vigencia anual en la Póliza, no superen el Monto Máximo de Gastos Reembolsables establecido en las Condiciones Particulares de la Póliza \nQue estos gastos no provengan ni se originen por una causa excluida en el Artículo 5 de estas Condiciones Generales \nQue las prestaciones médicas sean entregadas por el o los prestadores indicados en las Condiciones Particulares de esta Póliza."
+    },
+    {
+        "question": "¿Cuales son los gastos médicos  que la compañía pagará al prestador de seguro de Gastos Médicos de los cuales el asegurado utilizó?",
+        "answer": "La Compañía Aseguradora reembolsará al Asegurado o pagará al Prestador los Gastos Médicos Razonables y Acostumbrados, efectivamente incurridos por el Asegurado, respecto del Evento, como complemento de lo que le cubra el sistema previsional o de salud al que se encuentre afiliado o adherido, tales como: Isapres, Fonasa, Cajas de Previsión, Departamentos o Servicios de Bienestar, el Seguro Obligatorio de Accidentes Personales establecido en la Ley Nº 18.490, las Cajas de Compensación de Asignación Familiar y otros Seguros de Salud contratados en favor del Asegurado por otras instituciones, públicas o privadas."
+    },
+    {
+        "question": "¿Cuáles son los gastos médicos que contempla la Cobertura para Gastos Médicos de Hospitalización?",
+        "answer": "Días cama hospitalización: Es el gasto diario por habitación, alimentación y atención general de enfermería suministrada al Asegurado durante su hospitalización. Incluye Día Cama, Cuidado Intensivo e Intermedio y Día Cama transitorio. \nServicios hospitalarios: Son los gastos por concepto de servicios de Hospital que corresponden a: derecho de pabellón, unidad de tratamiento intensivo, exámenes de laboratorio y radiología, insumos, medicamentos y otras prestaciones médicas suministradas al Asegurado durante su Hospitalización, que hayan sido debidamente prescritos por el Médico tratante. \nHonorarios médicos quirúrgicos: Son los honorarios de médicos, paramédicos y arsenaleras que intervengan en una Operación Quirúrgica de las enfermedades cubiertas por este seguro. \nPrótesis Quirúrgicas: Son los gastos por concepto de prótesis fijas o removibles requeridos a consecuencia de una intervención quirúrgica. Quedan excluidas de la cobertura de esta póliza las prótesis maxilofaciales. \nServicio de rescate o de traslado secundario: Es el traslado del Asegurado hasta y hacia el Hospital en una ambulancia aérea o terrestre, en los términos, condiciones, porcentajes y límites establecidos para este beneficio que se indica en el Cuadro de Coberturas de las Condiciones Particulares de la Póliza."
+    },
+    {
+        "question": "¿Cuáles son las limitaciones que contempla la póliza POL320180100?",
+        "answer": "En aquellos casos en que el asegurado no esté afiliado a un sistema de salud previsional, privado o estatal, la compañía calculará los gastos a ser reembolsados o pagados al prestador y sobre ellos aplicará el porcentaje de reembolso o pago al prestador que se indica para estos efectos en el Cuadro de Coberturas de las Condiciones Particulares de la Póliza."
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    },
+    {
+        "question": "¿-?",
+        "answer": "-"
+    }
+]
