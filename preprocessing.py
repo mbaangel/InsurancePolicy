@@ -2,7 +2,7 @@ import fitz  # PyMuPDF
 from docx import Document
 import os
 import nltk
-nltk.download('punkt', force=True)
+nltk.download('punkt_tab', force=True)
 print(nltk.data.path)
 
 def extract_text_from_pdf(file_path):
