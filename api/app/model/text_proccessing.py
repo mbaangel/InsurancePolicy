@@ -1,6 +1,6 @@
 import fitz  # PyMuPDF propuesta
 import os
-from model.preprocessing import convert_files_to_docs, process_documents
+from model.docs_preprocessing import convert_files_to_docs, process_documents
 import pandas as pd
 
 def extract_text_from_pdf(pdf_path):

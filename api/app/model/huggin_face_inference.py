@@ -19,9 +19,8 @@ class HuggingFaceInferenceLLM(LLM):
         
         super().__init__(**kwargs)
         
-        #self.client = InferenceClient() #Si se loguean por terminal no es necesario poner el token acá
-        self.client = InferenceClient(token="") #Si no se loguean por terminal, poner el token acá
-    
+        self.client = InferenceClient() #Si se loguean por terminal no es necesario poner el token acá
+        
     @property
     def _llm_type(self) -> str:
         return "huggingface_inference"
