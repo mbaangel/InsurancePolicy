@@ -21,3 +21,4 @@ sentencepiece==0.2.0
 google-api-python-client==2.163.0
 bs4==0.0.2
 langgraph==0.3.6
+flask
