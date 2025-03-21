@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify,  render_template, request, redirect, url_for
 #from config.swagger import swagger_configuration
 
-from model.index import generate_response
+from model.prompt_retreiver import generate_response
 
 app = Flask(__name__)
 #swagger_configuration()
