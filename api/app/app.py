@@ -6,6 +6,8 @@ from model.prompt_retreiver import generate_response
 app = Flask(__name__)
 #swagger_configuration()
 
+if __name__ == "__main__":
+    app.run(debug=True)
 
 @app.post('/message')
 def message():
